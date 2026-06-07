@@ -47,6 +47,8 @@ An FPGA VGA game implemented using synchronous Verilog logic.
 - Designed FSMs for motion, collision behavior, game flow, timing, and controls
 - Verified Hsync/Vsync timing and active video behavior with a testbench
 
+[View Project](https://github.com/MatinSobhani/FPGA-Osmosis-Game)
+
 ## 📚 Education
 
 **University of California, Santa Cruz**  
