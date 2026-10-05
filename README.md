@@ -1,8 +1,8 @@
 # Hi, I'm Matin 👋
 
-I'm a Computer Engineering student at UC Santa Cruz focused on **digital hardware, FPGA design, RTL design, and verification**. I enjoy building hardware/software systems that connect low-level design with real world behavior, from FPGA image-processing pipelines to embedded sensing systems.
+I'm a recent Computer Engineering graduate from UC Santa Cruz focused on **digital hardware, FPGA design, RTL design, and verification**. I enjoy building hardware/software systems that connect low-level design with real-world behavior, from FPGA image-processing pipelines to embedded sensing systems.
 
-Currently, I'm especially interested in:
+I'm especially interested in:
 
 - FPGA and ASIC design
 - RTL design with Verilog/SystemVerilog
@@ -13,18 +13,18 @@ Currently, I'm especially interested in:
 ## 🛠️ Technical Skills
 
 **Hardware / Verification**  
-Verilog, SystemVerilog, FPGA Design, RTL Design, cocotb, UVM, Vivado, Verilator, Icarus Verilog, Yosys
+Verilog, SystemVerilog, FPGA Design, RTL Design, cocotb, UVM, Vivado, Verilator, Icarus Verilog, Yosys, PSpice
 
 **Programming**  
-C++, Python, RISC-V Assembly, JavaScript
+C++, Python, RISC-V Assembly, JavaScript, SQL
 
 **Tools**  
-Git, Linux, VS Code, Jupyter Notebook, Oscilloscope, Ghidra, Burp Suite
+Git, Linux, VS Code, Jupyter Notebook, MATLAB, Oscilloscope, Ghidra, Burp Suite
 
 ## 🚀 Featured Projects
 
 ### FPGA Sobel Image Processing
-A SystemVerilog FPGA image processing pipeline that performs Sobel edge detection on image data streamed over UART.
+A SystemVerilog FPGA image-processing pipeline that performs Sobel edge detection on image data streamed over UART.
 
 - Built a ready/valid streaming pipeline: RGB → grayscale → Sobel → magnitude
 - Used synchronous on-chip RAM for the sliding 3x3 image window
@@ -52,9 +52,9 @@ An FPGA VGA game implemented using synchronous Verilog logic.
 ## 📚 Education
 
 **University of California, Santa Cruz**  
-B.S. Computer Engineering: Digital Hardware  
+B.S. Computer Engineering: Digital Hardware, Highest Honors
 Minor in Computer Science  
-Expected August 2026
+August 2026
 
 **El Camino College**  
 A.S. Mathematics, Honors  
@@ -62,4 +62,4 @@ A.S. Physics, Honors
 
 ## 👨‍🏫 Experience
 
-I'm currently an Engineering Tutor for an upper-division digital logic course at UC Santa Cruz, where I help students with Boolean algebra, finite-state machines, timing analysis, and Verilog debugging.
+I worked as an Engineering Tutor for an upper-division digital logic course at UC Santa Cruz, where I helped students with Boolean algebra, finite-state machines, timing analysis, circuit design, and Verilog debugging.
