@@ -51,14 +51,14 @@ An FPGA VGA game implemented using synchronous Verilog logic.
 
 ## 📚 Education
 
-**University of California, Santa Cruz**  
-B.S. Computer Engineering: Digital Hardware, Highest Honors
-Minor in Computer Science  
+**University of California, Santa Cruz**\
+B.S. Computer Engineering: Digital Hardware, Highest Honors\
+Minor in Computer Science\
 August 2026
 
-**El Camino College**  
-A.S. Mathematics, Honors  
-A.S. Physics, Honors
+**El Camino College**\
+A.S. Mathematics, Honors\
+A.S. Physics, Honors\
 August 2024
 
 ## 👨‍🏫 Experience
