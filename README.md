@@ -59,6 +59,7 @@ August 2026
 **El Camino College**  
 A.S. Mathematics, Honors  
 A.S. Physics, Honors
+August 2024
 
 ## 👨‍🏫 Experience
 
